@@ -1,1 +1,34 @@
+Name of the Student : BUDDOLLA KARTHIK
+Learning Track : SALESFORCE ADMINISTRATION
+project Name :Pizza Delivery App
+Trailhead profile :https://salesforce.com/trailblazer/karthikbuddolla 
+Developer org username :karthik@gdcproject.com
+Developer org password :Gayatri@123 
+position : Team leader
 
+
+Name of the Student : 
+Learning Track : SALESFORCE ADMINISTRATION
+project Name :Pizza Delivery App
+Trailhead profile :https://www.salesforce.com/trailblazer/oz605pv0myu5yof5zc 
+Developer org username :akhil@gdcproject.com
+Developer org password :Gayatri@123
+position : Team Members
+
+
+Name of the Student :DEGACHICHU CHATHURYA
+Learning Track : SALESFORCE ADMINISTRATION
+project Name :Pizza Delivery App
+Trailhead profile :https://www.salesforce.com/trailblazer/chathuryachaithu
+Developer org username :chaturya@gdcproject.com 
+Developer org password :Gayatri@123
+position : Team Members
+
+
+Name of the Student :GUDURU LAKSHMI NARAYANA
+Learning Track : SALESFORCE ADMINISTRATION
+project Name :Pizza Delivery App
+Trailhead profile :https://www.salesforce.com/trailblazer/ng2o808jblbbvn1ra0
+Developer org username :lucky@gdcpt.com 
+Developer org password :Gayatri@123
+position : Team Members
